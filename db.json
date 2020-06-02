@@ -1,0 +1,18 @@
+{
+  "society": [
+    {
+        "id": 2,
+        "url": "http://localhost:8484/societe/company/2/",
+        "raison_sociale": "Grace Delice",
+        "secture_activite": "services informatiques",
+        "adresse": "casablanca"
+    },
+    {
+        "id": 1,
+        "url": "http://localhost:8484/societe/company/1/",
+        "raison_sociale": "Grace Technologie",
+        "secture_activite": "services informatiques",
+        "adresse": "casablanca"
+    }
+  ]
+}
