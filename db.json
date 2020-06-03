@@ -14,5 +14,23 @@
         "secture_activite": "services informatiques",
         "adresse": "casablanca"
     }
+  ],
+  [
+    {
+        "id": 2,
+        "url": "http://localhost:8484/societe/dossier/2/",
+        "nom_dossier": "dossier 2",
+        "company": "Grace Technologie",
+        "description": "dossier 1 pour grace technologie",
+        "created": "2020-05-31T14:10:54.136570Z"
+    },
+    {
+        "id": 1,
+        "url": "http://localhost:8484/societe/dossier/1/",
+        "nom_dossier": "dossier 1",
+        "company": "Grace Delice",
+        "description": "dossier 1 pour grace délice",
+        "created": "2020-05-31T14:09:50.474888Z"
+    }
   ]
 }
