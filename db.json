@@ -32,5 +32,36 @@
         "description": "dossier 1 pour grace délice",
         "created": "2020-05-31T14:09:50.474888Z"
     }
+],
+"chantier":[
+  {
+      "id": 2,
+      "url": "http://localhost:8484/societe/chantier/2/",
+      "nom_chantier": "chantier 2",
+      "description": "chantier de de terrain",
+      "heure_debut": "08:00",
+      "heutre_fin": "18:30",
+      "dossier": "dossier 1",
+      "chef_de_projet": "Evrard",
+      "status": "en_encours",
+      "chanier_used": [],
+      "created": "2020-05-31T14:14:44.009041Z"
+  },
+  {
+      "id": 1,
+      "url": "http://localhost:8484/societe/chantier/1/",
+      "nom_chantier": "chantier 1",
+      "description": "chantier de construction",
+      "heure_debut": "08:00",
+      "heutre_fin": "18:30",
+      "dossier": "dossier 2",
+      "chef_de_projet": "Evrard",
+      "status": "en_attente",
+      "chanier_used": [
+          "http://localhost:8484/societe/chantier/1/"
+      ],
+      "created": "2020-05-31T14:14:01.559208Z"
+  }
 ]
+
 }
