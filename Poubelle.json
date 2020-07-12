@@ -1,0 +1,44 @@
+{
+  "poubelles": [
+    {
+        "id": 1
+        "title": "Bin A",
+        "temperature": "25" ,
+        "humidity": "76",
+        "filling level": "30",
+        "status": "On"
+    },
+    {
+        "id": 2
+        "title": "Bin B",
+        "temperature": "29" ,
+        "humidity": "76",
+        "filling level": "55",
+        "status": "On"
+    },
+        {
+        "id": 3
+        "title": "Bin C",
+        "temperature": "43" ,
+        "humidity": "76",
+        "filling level": "50",
+        "status": "On"
+    },
+        {
+        "id": 4
+        "title": "Bin D",
+        "temperature": "32" ,
+        "humidity": "76",
+        "filling level": "17",
+        "status": "On"
+     },
+     {
+        "id": 5
+        "title": "Bin E",
+        "temperature": "22" ,
+        "humidity": "76",
+        "filling level": "2",
+        "status": "On"
+     }
+  ]
+}
