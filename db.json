@@ -13,7 +13,7 @@
         "title": "Bin B",
         "temperature": "29" ,
         "humidity": "76",
-        "filling level": "55",
+        "fillingLevel": "55",
         "status": "On"
     },
         {
@@ -21,7 +21,7 @@
         "title": "Bin C",
         "temperature": "43" ,
         "humidity": "76",
-        "filling level": "50",
+        "fillingLevel": "50",
         "status": "On"
     },
         {
@@ -29,7 +29,7 @@
         "title": "Bin D",
         "temperature": "32" ,
         "humidity": "76",
-        "filling level": "17",
+        "fillingLevel": "17",
         "status": "On"
      },
      {
@@ -37,7 +37,7 @@
         "title": "Bin E",
         "temperature": "22" ,
         "humidity": "76",
-        "filling level": "2",
+        "fillingLevel": "2",
         "status": "On"
      }
   ]
