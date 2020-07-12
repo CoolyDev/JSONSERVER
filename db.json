@@ -5,8 +5,8 @@
         "title": "Bin A",
         "temperature": "25" ,
         "humidity": "76",
-        "fillingLevel": "30",
-        "status": "On"
+        "fillingLevel": "70",
+        "status": "Off"
     },
     {
         "id": 2,
